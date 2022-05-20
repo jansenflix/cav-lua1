@@ -95,6 +95,9 @@ footer{
     height: 120px;
     text-align: center;
     padding: 20px;
+   
+
+
 }
 
 
@@ -212,7 +215,12 @@ h1{
 
     .mensagem{
        display: none;
-       
+
+           
         
     }
+  footer{
+   font-size: 12px;
+}
+
   }
